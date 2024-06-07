@@ -4,7 +4,8 @@ IAAI is backed by the IAAI utility token, promoted by **IAAI.meme**, which will 
 
 ### Token Contract
 
-- [0x7754c4a62e7d3cb682791af08afa4daf963de99a](https://etherscan.io/address/0x7754c4a62e7d3cb682791af08afa4daf963de99a)
+- Source https://github.com/iaai-meme/IAAI_Token/blob/main/contracts/IntelligentAutonomousArtificialIntelligence.sol
+- Deployed [0x7754c4a62e7d3cb682791af08afa4daf963de99a](https://etherscan.io/address/0x7754c4a62e7d3cb682791af08afa4daf963de99a)
 
 ### Token Utility:
 AI, DAO, API Access, Liquidity Providing, Farming
